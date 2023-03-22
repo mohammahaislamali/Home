@@ -1,0 +1,23 @@
+export const  ImagePath = {
+ splasescrren:require('../Assets/Image/Splase.png'),
+ indainflage:require('../Assets/Image/indflage.jpg'),
+ amrikaflage:require('../Assets/Image/amrikaflage.jpg'),
+ brand:require('../Assets/Image/brand.jpg'),
+ doller:require('../Assets/Image/doller.jpg'),
+ lakhrupya:require('../Assets/Image/lakhrupya.jpg'),
+ arrow:require('../Assets/Icons/arow.png'),
+ chat:require('../Assets/Icons/chat.png'),
+ email:require('../Assets/Icons/Email.png'),
+ phone:require('../Assets/Icons/Shape.png'),
+ user:require('../Assets/Icons/user.png'),
+ pin:require('../Assets/Icons/pin.png'),
+ map:require('../Assets/Image/map.png'),
+ man:require('../Assets/Image/man.png'),
+ girl:require('../Assets/Image/girl.png'),
+ userlock:require('../Assets/Image/lock.png'),
+ home:require('../Assets/Icons/home.png'),
+ mortarboard:require('../Assets/Icons/mortarboard.png'),
+ category:require('../Assets/Icons/category.png'),
+ index:require('../Assets/Icons/Pluse.png'),
+ pluse:require('../Assets/Icons/Pluse.png')
+}
